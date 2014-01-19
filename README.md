@@ -1,4 +1,4 @@
-portfolio
+Portfolio
 =========
 
-Work in progress. Personal career brief.
+Personal website about my career and experience. It's also a space to experiment on new and interesting technologies. 
